@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F766E,45:2563EB,100:7C3AED&text=HiroHsiang&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=46&desc=Research%20workflows%20for%20HTA%2C%20RWE%20and%20AI-assisted%20analysis&descAlign=50&descAlignY=62&animation=fadeIn" alt="HiroHsiang profile banner" />
+
 # HiroHsiang
 
 ### Research workflows | Health economics | AI-assisted analysis
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=800&color=2F80ED&center=true&vCenter=true&width=850&lines=HTA+%7C+RWE+%7C+Evidence+Synthesis+%7C+AI+Research+Agents;Building+reproducible+research+systems+for+clinical+and+economic+evidence" alt="Research focus typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=800&color=2F80ED&center=true&vCenter=true&width=850&lines=HTA+%7C+Real-world+Evidence+%7C+Health+Economics+%7C+AI+Research+Workflows;Building+structured+and+reproducible+research+systems" alt="Research focus typing animation" />
 
 <br>
 
@@ -19,8 +21,8 @@
 I build research workflows around health economics, real-world evidence, evidence synthesis, and AI-assisted analysis.  
 我主要围绕卫生经济学、真实世界证据、证据综合和 AI 辅助分析构建科研工作流。
 
-I am currently a postdoctoral researcher at The Chinese University of Hong Kong, with a PhD background from Fudan University.  
-现为香港中文大学博士后，博士毕业于复旦大学公共卫生学院。
+I hold a PhD focused on health technology assessment and real-world evidence.  
+我是卫生技术评估与真实世界研究方向博士。
 
 </div>
 
@@ -30,11 +32,25 @@ I am currently a postdoctoral researcher at The Chinese University of Hong Kong,
 
 | Area | Current Focus | 中文说明 |
 |---|---|---|
-| Role | Postdoctoral researcher in public health and health economics | 公共卫生与卫生经济学方向博士后 |
 | Research domain | HTA, pharmacoeconomics, real-world evidence, evidence synthesis | 卫生技术评估、药物经济学、真实世界证据、证据综合 |
 | Code & data | R, MySQL, Markdown, GitHub, reproducible analysis workflows | R、MySQL、Markdown、GitHub、可复现分析流程 |
 | AI workflow | Claude Code, Codex, Obsidian, Zotero, reusable research skills | Claude Code、Codex、Obsidian、Zotero、可复用科研技能 |
 | Public profile | [ResearchGate](https://www.researchgate.net/profile/Yuliang-Xiang) | 学术主页 |
+
+---
+
+## Research System / 研究系统
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=r,js,markdown,github,mysql" alt="Core tools" />
+
+</div>
+
+| Input | Processing | Output |
+|---|---|---|
+| Literature, claims data, clinical questions | R analysis, evidence synthesis, AI-assisted coding, reproducible notes | Tables, models, manuscripts, reusable research workflows |
+| 文献、医保数据、临床问题 | R 分析、证据综合、AI 辅助编程、可复现笔记 | 表格、模型、论文和可复用科研流程 |
 
 ---
 
