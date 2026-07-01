@@ -2,7 +2,7 @@
 
 # HiroHsiang
 
-### Health technology assessment | Real-world evidence | AI-assisted research workflows
+### Research workflows | Health economics | AI-assisted analysis
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=800&color=2F80ED&center=true&vCenter=true&width=850&lines=HTA+%7C+RWE+%7C+Evidence+Synthesis+%7C+AI+Research+Agents;Building+reproducible+research+systems+for+clinical+and+economic+evidence" alt="Research focus typing animation" />
 
@@ -16,11 +16,11 @@
 
 <br><br>
 
-I work on health economics, evidence synthesis, target trial emulation, and research workflow automation.  
-我关注卫生技术评估、真实世界研究、证据综合与 AI 辅助科研工作流。
+I build research workflows around health economics, real-world evidence, evidence synthesis, and AI-assisted analysis.  
+我主要围绕卫生经济学、真实世界证据、证据综合和 AI 辅助分析构建科研工作流。
 
-My current focus is building reproducible systems that connect clinical evidence, real-world data, and AI agents for clearer research and decision-making.  
-我正在构建更可复现、可审计、可复用的研究系统，让临床证据、真实世界数据与 AI agents 更好地服务研究和决策。
+I am currently a postdoctoral researcher at The Chinese University of Hong Kong, with a PhD background from Fudan University.  
+现为香港中文大学博士后，博士毕业于复旦大学公共卫生学院。
 
 </div>
 
@@ -30,27 +30,27 @@ My current focus is building reproducible systems that connect clinical evidence
 
 | Area | Current Focus | 中文说明 |
 |---|---|---|
-| Research domain | Health technology assessment, pharmacoeconomics, real-world evidence | 卫生技术评估、药物经济学、真实世界证据 |
-| Method stack | CEA, TTE, IPTW/IPCW, CCW, MAIC/STC, systematic review | 成本效果分析、目标试验模拟、因果推断、间接比较、系统综述 |
-| Automation layer | Claude Code, Codex, Obsidian, Zotero, GitHub, reproducible ledgers | 用 AI 工具和知识库搭建可追踪的科研流程 |
-| Main language | R for analysis and modeling; Markdown for research infrastructure | 主要用 R 做分析建模，用 Markdown 组织研究系统 |
-| Working style | Traceable assumptions, auditable workflows, human-reviewed AI assistance | 假设可追踪、流程可审计、AI 输出有人类复核 |
+| Role | Postdoctoral researcher in public health and health economics | 公共卫生与卫生经济学方向博士后 |
+| Research domain | HTA, pharmacoeconomics, real-world evidence, evidence synthesis | 卫生技术评估、药物经济学、真实世界证据、证据综合 |
+| Code & data | R, MySQL, Markdown, GitHub, reproducible analysis workflows | R、MySQL、Markdown、GitHub、可复现分析流程 |
+| AI workflow | Claude Code, Codex, Obsidian, Zotero, reusable research skills | Claude Code、Codex、Obsidian、Zotero、可复用科研技能 |
+| Public profile | [ResearchGate](https://www.researchgate.net/profile/Yuliang-Xiang) | 学术主页 |
 
 ---
 
 ## About Me / 关于我
 
-- I am a health technology assessment researcher focused on clinical and economic evaluation.  
-  我是一名关注临床与经济学评价的卫生技术评估研究者。
+- I work on health technology assessment, pharmacoeconomics, real-world evidence, and evidence synthesis.  
+  我关注卫生技术评估、药物经济学、真实世界证据和证据综合。
 
-- I work across pharmacoeconomics, real-world data analysis, evidence synthesis, and decision-oriented health research.  
-  我的工作横跨药物经济学、真实世界数据分析、证据综合和面向决策的卫生研究。
+- I like turning messy research tasks into structured, reproducible workflows.  
+  我喜欢把复杂、零散的科研任务整理成结构化、可复现的工作流。
 
-- I build AI-assisted workflows for literature review, data analysis, scientific writing, and reproducible project management.  
-  我会构建 AI 辅助的文献综述、数据分析、科学写作和可复现项目管理流程。
+- I use AI tools for literature review, data analysis, coding support, writing assistance, and knowledge management.  
+  我使用 AI 工具辅助文献综述、数据分析、代码实现、写作和知识管理。
 
-- I care about making research workflows more transparent, reusable, and easier to audit.  
-  我关心的是让科研流程更透明、更可复用，也更容易被检查和复核。
+- I care about transparent assumptions, readable outputs, and workflows that can be checked later.  
+  我关心假设透明、产出可读，以及事后能够复核的研究流程。
 
 ---
 
@@ -63,35 +63,6 @@ My current focus is building reproducible systems that connect clinical evidence
 | Real-world evidence | Claims data analysis, target trial emulation, IPTW/IPCW, clone-censor-weight methods | 医保理赔数据分析、目标试验模拟、IPTW/IPCW、克隆-删失-加权 |
 | Indirect comparison | MAIC, STC, simulation studies, and method choice in HTA decision contexts | MAIC、STC、仿真研究，以及 HTA 场景下的方法选择 |
 | AI for research | Skill bundles, agent workflows, Obsidian-based knowledge systems, reproducible handoffs | AI skill、agent 工作流、Obsidian 知识系统、可复现交接记录 |
-
----
-
-## Evidence Workflow / 证据工作流
-
-```mermaid
-flowchart LR
-    A[Clinical question<br/>临床问题] --> B[Evidence retrieval<br/>证据检索]
-    B --> C[Screening & extraction<br/>筛选与提取]
-    C --> D[Real-world data analysis<br/>真实世界数据分析]
-    D --> E[Economic evaluation<br/>经济学评价]
-    E --> F[Decision-ready report<br/>面向决策的报告]
-
-    G[AI agents<br/>AI 辅助流程] -. audit / automation .-> B
-    G -. coding / review .-> D
-    G -. writing / QA .-> F
-```
-
----
-
-## Featured Projects / 项目
-
-| Project | Description | 中文说明 |
-|---|---|---|
-| [CCW_Claude_Skill](https://github.com/HiroHsiang/CCW_Claude_Skill) | Claude Code skill for clone-censor-weight analysis in target trial emulations. | 用于目标试验模拟中 CCW 分析的 Claude Code skill，覆盖 R 模板、权重诊断和结果报告。 |
-| `PHD_data` | Research data and analysis infrastructure supporting doctoral work on indirect treatment comparison and HTA decision impact. | 支撑博士阶段间接比较、HTA 决策影响与仿真研究的数据和分析基础设施。 |
-| `TTE_CEA_GLP1RA` | Target trial emulation and real-world cost-effectiveness analysis comparing GLP-1RA and SGLT2i strategies. | 基于真实世界数据比较 GLP-1RA 与 SGLT2i 策略的目标试验模拟与成本效果分析项目。 |
-| `cccea` | AI-agent skill/plugin system for cost-effectiveness analysis and HTA workflows. | 面向 CEA 与 HTA 的 AI-agent skill/plugin 系统，强调 R 模板、方法学 gate 与可复现交接。 |
-| `AI-PP Systematic Review` | PRISMA-oriented review on generative AI use by patients and patient-physician relationships. | 关于患者使用生成式 AI 及其对医患关系影响的 PRISMA 导向系统综述。 |
 
 ---
 
@@ -115,18 +86,6 @@ flowchart LR
 
 ---
 
-## GitHub Stats / GitHub 状态
-
-<div align="center">
-
-![HiroHsiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiroHsiang&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HiroHsiang&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## Current Work / 当前方向
 
 | Track | Direction | 中文说明 |
@@ -135,6 +94,23 @@ flowchart LR
 | Real-world evaluation | Connecting clinical effectiveness analysis with cost-effectiveness in claims data | 在医保理赔数据中连接临床有效性与成本效果分析 |
 | Research skills | Building reusable workflows for TTE design, CCW analysis, CEA, and scientific writing | 建设可复用的 TTE、CCW、CEA 与科学写作工作流 |
 | Knowledge infrastructure | Turning notes, projects, references, and outputs into a more reliable research system | 把笔记、项目、文献和产出组织成更可靠的研究系统 |
+
+---
+
+## What I Build / 我在 GitHub 上关注什么
+
+| Area | Description | 中文 |
+|---|---|---|
+| Research utilities | Small tools and templates that make analysis, writing, and review workflows smoother | 改善分析、写作和综述流程的小工具与模板 |
+| AI-assisted workflows | Skills, prompts, and workflow patterns for coding, literature review, and reproducibility | 用于代码、文献综述和可复现研究的 AI 工作流 |
+| Knowledge infrastructure | Markdown-first systems for projects, references, notes, and reusable research experience | 以 Markdown 为核心组织项目、文献、笔记和经验 |
+| Open research habits | Cleaner documentation, traceable decisions, and reusable analytical routines | 更清晰的文档、更可追踪的决策和可复用分析流程 |
+
+---
+
+## Links / 链接
+
+- ResearchGate: [Yuliang Xiang](https://www.researchgate.net/profile/Yuliang-Xiang)
 
 ---
 
