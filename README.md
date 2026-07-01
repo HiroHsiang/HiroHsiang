@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F766E,45:2563EB,100:7C3AED&text=HiroHsiang&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&fontSize=46&desc=Research%20workflows%20for%20HTA%2C%20RWE%20and%20AI-assisted%20analysis&descAlign=50&descAlignY=62&animation=fadeIn" alt="HiroHsiang profile banner" />
 
-# HiroHsiang
 
 ### Research workflows | Health economics | AI-assisted analysis
 
